@@ -1,0 +1,156 @@
+!<thin>
+//                                              1188      `
+hid-core.o/
+hid-input.o/
+hid-quirks.o/
+hidraw.o/
+uhid.o/
+hid-generic.o/
+hid-a4tech.o/
+hid-axff.o/
+hid-apple.o/
+hid-belkin.o/
+hid-cherry.o/
+hid-chicony.o/
+hid-cypress.o/
+hid-dr.o/
+hid-emsff.o/
+hid-elecom.o/
+hid-ezkey.o/
+hid-gyration.o/
+hid-holtek-kbd.o/
+hid-holtek-mouse.o/
+hid-holtekff.o/
+hid-kensington.o/
+hid-keytouch.o/
+hid-kye.o/
+hid-lcpower.o/
+hid-lg.o/
+hid-lgff.o/
+hid-lg2ff.o/
+hid-lg3ff.o/
+hid-lg4ff.o/
+hid-logitech-dj.o/
+hid-logitech-hidpp.o/
+hid-magicmouse.o/
+hid-microsoft.o/
+hid-monterey.o/
+hid-multitouch.o/
+hid-nintendo.o/
+hid-ntrig.o/
+hid-ortek.o/
+hid-prodikeys.o/
+hid-pl.o/
+hid-petalynx.o/
+hid-picolcd_core.o/
+hid-primax.o/
+hid-roccat.o/
+hid-roccat-common.o/
+hid-roccat-arvo.o/
+hid-roccat-isku.o/
+hid-roccat-kone.o/
+hid-roccat-koneplus.o/
+hid-roccat-konepure.o/
+hid-roccat-kovaplus.o/
+hid-roccat-lua.o/
+hid-roccat-pyra.o/
+hid-roccat-ryos.o/
+hid-roccat-savu.o/
+hid-saitek.o/
+hid-samsung.o/
+hid-sjoy.o/
+hid-sony.o/
+hid-speedlink.o/
+hid-sunplus.o/
+hid-gaff.o/
+hid-tmff.o/
+hid-tivo.o/
+hid-topseed.o/
+hid-twinhan.o/
+hid-uclogic.o/
+hid-zpff.o/
+hid-zydacron.o/
+wacom_wac.o/
+wacom_sys.o/
+hid-waltop.o/
+hid-wiimote-core.o/
+hid-wiimote-modules.o/
+usbhid/hid-core.o/
+usbhid/hiddev.o/
+/0              0           0     0     644     353784    `
+/12             0           0     0     644     759992    `
+/25             0           0     0     644     175208    `
+/39             0           0     0     644     261744    `
+/49             0           0     0     644     280560    `
+/57             0           0     0     644     145600    `
+/72             0           0     0     644     152848    `
+/86             0           0     0     644     159120    `
+/98             0           0     0     644     187568    `
+/111            0           0     0     644     153728    `
+/125            0           0     0     644     152296    `
+/139            0           0     0     644     192264    `
+/154            0           0     0     644     153616    `
+/169            0           0     0     644     166336    `
+/179            0           0     0     644     156712    `
+/192            0           0     0     644     145208    `
+/206            0           0     0     644     153064    `
+/219            0           0     0     644     178688    `
+/235            0           0     0     644     165008    `
+/253            0           0     0     644     149320    `
+/273            0           0     0     644     143568    `
+/289            0           0     0     644     144648    `
+/307            0           0     0     644     143216    `
+/323            0           0     0     644     153864    `
+/334            0           0     0     644     163112    `
+/349            0           0     0     644     328664    `
+/359            0           0     0     644     149568    `
+/371            0           0     0     644     146424    `
+/384            0           0     0     644     147040    `
+/397            0           0     0     644     233008    `
+/410            0           0     0     644     230064    `
+/429            0           0     0     644     440736    `
+/451            0           0     0     644     193128    `
+/469           /0           0     0     644     200200    `
+/486            0           0     0     644     154696    `
+/502            0           0     0     644     362744    `
+/520            0           0     0     644     204848    `
+/536            0           0     0     644     226536    `
+/549            0           0     0     644     143312    `
+/562           /0           0     0     644     223192    `
+/579            0           0     0     644     156896    `
+/589            0           0     0     644     163448    `
+/605            0           0     0     644     219448    `
+/625            0           0     0     644     143688    `
+/639            0           0     0     644     207912    `
+/653            0           0     0     644     173312    `
+/674            0           0     0     644     202336    `
+/693            0           0     0     644     286232    `
+/712            0           0     0     644     257512    `
+/731            0           0     0     644     254000    `
+/754            0           0     0     644     192648    `
+/777            0           0     0     644     240576    `
+/800            0           0     0     644     175384    `
+/818            0           0     0     644     237264    `
+/837            0           0     0     644     212552    `
+/856            0           0     0     644     189304    `
+/875            0           0     0     644     152408    `
+/889            0           0     0     644     381608    `
+/904            0           0     0     644     155248    `
+/916            0           0     0     644     388296    `
+/928           /0           0     0     644     143208    `
+/945            0           0     0     644     150256    `
+/960            0           0     0     644     158208    `
+/972            0           0     0     644     144304    `
+/984            0           0     0     644     158744    `
+/996            0           0     0     644     191480    `
+/1011           0           0     0     644     219616    `
+/1026           0           0     0     644     188752    `
+/1041           0           0     0     644     143520    `
+/1053           0           0     0     644     190136    `
+/1069           0           0     0     644     518856    `
+/1082           0           0     0     644     472160    `
+/1095           0           0     0     644     147456    `
+/1109           0           0     0     644     336232    `
+/1129           0           0     0     644     386472    `
+/1152           0           0     0     644     371816    `
+/1171           0           0     0     644     295896    `
