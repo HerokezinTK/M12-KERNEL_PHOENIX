@@ -6,4 +6,4 @@ export ANDROID_MAJOR_VERSION=t
 export ARCH=arm64
 
 make TKZ_defconfig
-make
+make ARCH=arm64 -j$(nproc --all)
